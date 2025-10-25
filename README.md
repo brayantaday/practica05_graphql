@@ -350,8 +350,7 @@ Este proyecto está bajo la Licencia ISC.
 ## 👨‍💻 Autor
 
 **Tu Nombre**
-- GitHub: [@tu-usuario](https://github.com/tu-usuario)
-- Email: tu.email@ejemplo.com
+- GitHub: [@brayantaday](https://github.com/brayantaday)
 
 ---
 
